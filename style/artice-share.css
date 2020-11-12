@@ -1,9 +1,9 @@
-.social {
+#social {
 	display: flex;
 	justify-content: center; 
 }
 
-.social img {
+#social img {
 	padding: 0.75rem;
 	width:   1.50rem;
 	height:  1.50rem;
